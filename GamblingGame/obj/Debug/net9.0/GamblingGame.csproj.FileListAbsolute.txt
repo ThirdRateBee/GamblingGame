@@ -1,0 +1,15 @@
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\bin\Debug\net9.0\GamblingGame.exe
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\bin\Debug\net9.0\GamblingGame.deps.json
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\bin\Debug\net9.0\GamblingGame.runtimeconfig.json
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\bin\Debug\net9.0\GamblingGame.dll
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\bin\Debug\net9.0\GamblingGame.pdb
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.AssemblyInfoInputs.cache
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.AssemblyInfo.cs
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.csproj.CoreCompileInputs.cache
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.sourcelink.json
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.dll
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\refint\GamblingGame.dll
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.pdb
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\GamblingGame.genruntimeconfig.cache
+C:\Users\erik.lindberg6\Documents\Programering-2\GamblingGame\GamblingGame\obj\Debug\net9.0\ref\GamblingGame.dll

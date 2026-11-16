@@ -6,27 +6,40 @@ class Player
     protected float blood = 100;
     protected float minimumBlood = 50;
     
-
+    public void Stats()
+    {
+        Console.WriteLine($"Cash: {money}$");
+        Console.WriteLine($"Debt: {debt}$");
+        Console.WriteLine($"blood left: {blood}%");
+    }
     public void PayDebt()
     {
-        string payChoice;
-        int Amount = 0;
+        int amount = 0;
         Console.WriteLine("How much do you want to pay of?");
 
-        while (Amount > 0)
+        while (amount <= 0 || amount > money)
         {
-            payChoice = Console.ReadLine();
+            string payChoice = Console.ReadLine();
             payChoice = payChoice.ToLower();
             bool I;
-            I = int.TryParse(payChoice, out Amount);
+            I = int.TryParse(payChoice, out amount);
+            if(amount <= 0 || amount > money)
+            {
+                Console.WriteLine("I didnt work!");
+            }
         }
-        
-        
+        money -= amount;
+        debt -= amount;
+        Console.WriteLine(debt);
         
     }
     public void SellBody(BodyPart part)
     {
         money += part.value;
 
+    }
+    public void Beg(People Person)
+    {
+        
     }
 }

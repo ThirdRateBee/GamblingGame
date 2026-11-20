@@ -1,11 +1,11 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
 Player test = new();
 
 bool Love = true;
 
 test.Stats();
-
 while (Love)
 {
     if (Console.KeyAvailable)
@@ -22,7 +22,8 @@ while (Love)
         }
         else if (input == "sell")
         {
-        
+            test.SellBody();
+            test.Stats();
         }
         else if (input == "x")
         {
@@ -34,7 +35,4 @@ while (Love)
 
 Console.ReadLine();
 
-void PlayerActions()
-{
-    
-}
+

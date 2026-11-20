@@ -1,6 +1,6 @@
 
 class BodyPart
 {
-    public int value;
-    public float bloofLoss;
+    public int value { get; set; }
+    public float bloodLoss { get; set; }
 }
